@@ -26,12 +26,7 @@ This project is a Retrieval-Augmented Generation (RAG) pipeline built using **La
 
 ## 📂 Project Structure
 
-llm-agent-hashira/
-├── main.py # Entry point
-├── sample.txt # Sample input document
-├── .env # Contains API key (ignored by Git)
-├── .gitignore
-└── README.md
+```bash llm-agent-hashira/ ├── main.py ├── sample.txt ├── .env ├── .gitignore └── README.md ```
 
 ## 📦 Setup Instructions
 
