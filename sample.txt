@@ -1,0 +1,2 @@
+LangChain is a framework to build LLM-powered apps. FAISS helps search through documents using vector embeddings.
+This assistant lets users ask questions and retrieves only relevant data to generate answers using an LLM.
